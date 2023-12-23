@@ -13,7 +13,7 @@
 <h2><span style="font-size:20px;">Important Links:</span></h2>
 
 <ul>
-	<li><a href="https://scratch.mit.edu/users/carters3421/"><span style="font-size:20px;">My Scratch</span></a></li>
+    <li><a href="https://scratch.mit.edu/users/carters3421/"span style="font-size:20px;">My Scratch</span></a></li>
 	<li><a href="https://carters3421.github.io/games"span style="font-size:20px;">Games</span></a></li>
 	<li><a href="https://carters3421.github.io/manatees"><span style="font-size:20px;">Manatees</span></a></li>
 	<li><a href="https://carters3421.github.io/CarMod/"><span style="font-size:20px;">CarMod</span></a></li>
