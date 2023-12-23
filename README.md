@@ -14,9 +14,9 @@
 <h2><span style="font-size:20px;">Important Links:</span></h2>
 
 <ul>
-	<li><a href="psg_ep.html"><span style="font-size:20px;">Purple Square Guy Show Episodes</span></a></li>
-	<li><a href="games.html"span style="font-size:20px;">Games</span></a></li>
-	<li><a href="manatees.html"><span style="font-size:20px;">Manatees</span></a></li>
+	<li><a href="https://scratch.mit.edu/users/carters3421/"><span style="font-size:20px;">My Scratch</span></a></li>
+	<li><a href="https://carters3421.github.io/games"span style="font-size:20px;">Games</span></a></li>
+	<li><a href="https://carters3421.github.io/manatees"><span style="font-size:20px;">Manatees</span></a></li>
 	<li><a href="https://carters3421.github.io/CarMod/"><span style="font-size:20px;">CarMod</span></a></li>
 </ul>
 
@@ -24,6 +24,6 @@
 
 <h3><span style="font-size: 20px;">My Dogs:</span></h3>
 
-<p><span style="font-size: 20px;"><img alt="" src="https://cdn.discordapp.com/attachments/808481022169710645/1033870247096229979/20221021_143641.jpg" style="height: 267px; width: 200px;" /><img alt="" src="https://cdn.discordapp.com/attachments/808481022169710645/1033870246873944145/20221021_143838.jpg" style="width: 200px; height: 267px;" /></span></p>
+<p><span style="font-size: 20px;"><img alt="" src="/images/lady.jpg" style="height: 267px; width: 200px;" /><img alt="" src="/images/hope.jpg" style="width: 200px; height: 267px;" /></span></p>
 
 <p><span style="font-size: 20px;">Lady&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&amp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hope</span></p>
