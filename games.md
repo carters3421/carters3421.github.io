@@ -21,11 +21,11 @@
 
 <p><span style="font-size: 48px;">Purple Square Guy&#39;s Cool Adventure</span></p>
 
-<p><span style="font-size: 48px;"><iframe frameborder="0" height="620" scrolling="no" src="https://scratch.mit.edu/projects/642508163/embed" width="480"></iframe></span></p>
+<p><span style="font-size: 48px;"><iframe frameborder="0" height="620" scrolling="no" src="https://turbowarp.org/642508163/embed" width="480"></iframe></span></p>
 
-<p><span style="font-size: 48px;"><iframe frameborder="0" height="620" scrolling="no" src="https://scratch.mit.edu/projects/757193299/embed" width="480"></iframe></span></p>
+<p><span style="font-size: 48px;"><iframe frameborder="0" height="620" scrolling="no" src="https://turbowarp.org/757193299/embed" width="480"></iframe></span></p>
 
-<p><span style="font-size: 48px;"><iframe frameborder="0" height="620" scrolling="no" src="https://scratch.mit.edu/projects/763657367/embed" width="480"></iframe></span></p>
+<p><span style="font-size: 48px;"><iframe frameborder="0" height="620" scrolling="no" src="https://turbowarp.org/763657367/embed" width="480"></iframe></span></p>
 
 <p>&nbsp;</p>
 
